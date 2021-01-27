@@ -1,5 +1,5 @@
 # 2D Breakout
-A game of breakout in HTML, CSS and JavaScript
+A game of 2D Breakout in HTML, CSS and JavaScript
 
 Hello everyone, in this video I show you how to build a game of 2D Breakout in HTML, CSS and JavaScript.
 
