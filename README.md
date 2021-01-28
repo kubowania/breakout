@@ -3,7 +3,7 @@ A game of 2D Breakout in HTML, CSS and JavaScript
 
 Hello everyone, in this video I show you how to build a game of 2D Breakout in HTML, CSS and JavaScript.
 
-You can watch the whole video [here](https://youtu.be/Z_Xt5dKpqIM)
+You can watch the whole video [here](https://youtu.be/3KWEud12Pxo)
 
 We also deploy it to a .com website so you can share it with your friends. Hostinger have kindly given a 10% discount to sign up to anyone who watches this video. Just use the code ANIAKUBOW right here: https://www.hostinger.com/aniakubow
 
