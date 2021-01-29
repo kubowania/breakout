@@ -17,7 +17,9 @@ Sign up for weekly [coding tips](http://bit.ly/JS-tips) from my newsletter partn
 ### Who this course is for:
 * For beginners with an understanding of the fundamentals of JavaScript. 
 
-If you are looking to learn the fundamentals of HTML,CSS and JavaScript, watch my 12hr Codig Bootcamp [here](https://www.youtube.com/watch?v=Xm4BObh4MhI&list=RDCMUC5DNytAJ6_FISueUfzZCVsw)
+If you are looking to learn the fundamentals of HTML,CSS and JavaScript, watch my 12hr Coding Bootcamp [here](https://www.youtube.com/watch?v=Xm4BObh4MhI&list=RDCMUC5DNytAJ6_FISueUfzZCVsw).
+
+
 
 When you have finished your project I would love for you to share it with me - you can find me on [YouTube](https://www.youtube.com/channel/UC5DNytAJ6_FISueUfzZCVsw)  or [Twitter](https://www.twitter.com/ania_kubow). 
 
